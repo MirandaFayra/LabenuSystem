@@ -11,9 +11,7 @@
 
 **Bem-vindo a escola de programação onde a educação se reinventa!** 
 
-Na Labenu você aprende a **programar** do zero! São 6 meses de experiência focadas em
-
-**empregabilidade** para ingressar no mercado de tecnologia. **Aulas ao vivo e de onde você estiver**
+Na Labenu você aprende a **programar** do zero! São 6 meses de experiência focadas em **empregabilidade** para ingressar no mercado de tecnologia. **Aulas ao vivo e de onde você estiver**
 
 ### 🟠 Quem Faz
 
